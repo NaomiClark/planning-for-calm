@@ -1,12 +1,12 @@
 name: "planning-for-calm"  
-author: "Naomi Clrk"  
+author: "Naomi Clark"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: minty  
+    theme: yeti  
 navbar:  
   title: "Planning for Calm"
-    right:
+  right:
     - text: "What is Mindfulness?"
       href: Intro.html
