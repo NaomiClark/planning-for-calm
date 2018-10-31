@@ -4,9 +4,18 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: yeti  
+    theme: yeti
+    include:
+      after_body: footer.html
 navbar:  
   title: "Planning for Calm"
+  type: default
   right:
     - text: "What is Mindfulness?"
       href: Intro.html
+    - text: "Why Mindfulness?"
+      href: why_mindfulness.html
+    - text: "Students"
+      href: Students_main.html
+    - text: "Staff"
+      href: Staff_main.html
