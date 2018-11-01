@@ -19,3 +19,7 @@ navbar:
       href: Students_main.html
     - text: "Staff"
       href: Staff_main.html
+    - text: "Get Involved"
+      href: Get_Involved.html
+    - text: "Contact"
+      href: Contact.html
