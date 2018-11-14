@@ -29,6 +29,10 @@ title: "Frequently Asked Questions"
 
 <br>
 
+<img src="pfc_images/FAQ.jpg" style="width: 100%">
+
+<br>
+
 ##Mindfulness
 
 ###What is mindfulness?

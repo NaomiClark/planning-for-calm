@@ -29,6 +29,10 @@ title: "Resources"
 
 <br>
 
+<img src="pfc_images/resources.jpg" style="width: 100%">
+
+<br>
+
 Here you'll find resources that we've collected to help you on your mindfulness journey.
 
 <br>
@@ -40,33 +44,41 @@ Here you'll find resources that we've collected to help you on your mindfulness 
 
 ###download an app
 There are many apps to choose from. Here are some of our favourites...
+
 Most apps are free to download from your app store and offer a free trial, whereas some ask you to buy the app first with no subscription required.
 
-* Headspace (iOS + Android)
-* Calm (iOS + Android)
-* Buddhify (iOS + Android)
+*   Headspace (iOS + Android)
 
+*   Calm (iOS + Android)
+
+*   Buddhify (iOS + Android)
+
+<br>
 <br>
 
 ###learn more about the background of mindfulness
 
 One of our students recommended the following course for anyone interested in getting to know more about the history and philosophy behind mindfulness:
-[Demystifying mindfulness online course](https://www.coursera.org/learn/mindfulness)
+[Demystifying mindfulness online course at Coursera](https://www.coursera.org/learn/mindfulness)
 
 <br>
-
+<br>
 
 ###learn about the science behind mindfulness
 
 Here are some great videos that explain some of the scientific underpinnings behind mindfulness.
-*TW: dcan refer to epression, trauma and suicidal thoughts*
 
-[ASAP Science video](https://www.youtube.com/watch?v=Aw71zanwMnY) overviewing the effects of meditation on the brain, biology and behaviour. An excellent and accessible overview!
+*TW: can refer to depression, trauma and suicidal thoughts*
 
-Dr. Shauna Shapiro's [TedTalk](https://www.youtube.com/watch?v=IeblJdB2-Vo) on her journey into mindfunless, her work on the mechanisms behind mindfulness and the application of mindfulness research.
+<br>
 
-Prof. Mark Williams on the [Neuroscience of Mindfulness](https://www.youtube.com/watch?v=8GVwnxkWmSM).
+*   [ASAP Science video](https://www.youtube.com/watch?v=Aw71zanwMnY) overviewing the effects of meditation on the brain, biology and behaviour. An excellent and accessible overview!
 
+*   Dr. Shauna Shapiro's [TedTalk](https://www.youtube.com/watch?v=IeblJdB2-Vo) on her journey into mindfunless, her work on the mechanisms behind mindfulness and the application of mindfulness research.
+
+*   Prof. Mark Williams on the [Neuroscience of Mindfulness](https://www.youtube.com/watch?v=8GVwnxkWmSM).
+
+<br>
 <br>
 
 ###find out about related organisations
@@ -74,16 +86,22 @@ Prof. Mark Williams on the [Neuroscience of Mindfulness](https://www.youtube.com
 [Oxford Mindfulness Centre](http://oxfordmindfulness.org/)
 
 
-
+<br>
 <br>
 
 ###read some books about mindfulness
 A general good place to start is with any introductory or beginners book. This may seem obvious but it's good to remind ourselves that we won't become advanced overnight!
 
-Book such as **"Mindfulness: A practical guide to finding peace in a frantic world"** by Prof. Mark Williams and Dr. Danny Penman.
+*   Great instroductory books include **"Mindfulness: A practical guide to finding peace in a frantic world"** by Prof. Mark Williams and Dr. Danny Penman.
 
-For a read about integrating mindfulness into daily life, we'd recommend **"This is happening"** by Rohan Gunatillake.
+*   For a read about integrating mindfulness into daily life, we'd recommend **"This is happening"** by Rohan Gunatillake.
 
-Wanting an overview of the science? Check out **"The Science of Meditation"** by Daniel Goleman and Richard Davidson.
+*   Wanting an overview of the science? Check out **"The Science of Meditation"** by Daniel Goleman and Richard Davidson.
+
+<br>
+<br>
+
+###read the articles that you have cited
+Please check back later on for a full reference list!
 
 <br>
