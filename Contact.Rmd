@@ -27,3 +27,11 @@
 title: "Contact"
 ---
 
+<br>
+
+We are currently working on establishing a email for the project.
+
+In the meantime, if you have any questions please contact our research assistant, [Naomi](mailto:2075195c@student.gla.ac.uk)
+
+
+<br>
