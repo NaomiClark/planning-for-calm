@@ -44,7 +44,7 @@ Some people may choose to introduce spiritual aspects to their practice, if they
 <br>
 
 ###Isn't mindfulness just some vague, idealistic nonsense?
-This is a misconception about mindfulness. In fact, mindfulness has a vast amount of research behind it, with specific journals and international conferences. With mindfulness being so popular, sometimes mindfulness can be watered-down, but by following exercises based on research, such as MBCT or MBSR, you can learn concrete practices that can enhance your understanding of the mind and increase your ability to be mindful.
+This is a misconception about mindfulness. In fact, mindfulness has a vast amount of research behind it, with specific journals and international conferences. With mindfulness being so popular, sometimes mindfulness can be watered-down, but by following exercises based on research, such as MBCT or MBSR, you can learn concrete practices that can enhance your understanding of the mind and increase your ability to be mindful. See our [Resources](Resources_main.html) section for more information on the science behind mindfulness.
 
 <br>
 
@@ -54,7 +54,7 @@ Straight up: mindfulness is not a panacea. It is not a miracle cure. What mindfu
 <br>
 
 ###It's just a fad - right?
-It's no surprise that with the recent increase in mindfulness research, midnfulness appears to crop up everywhere and appears to be the latest "in" thing. However, there is a lot of research supporting the use and application of mindfulness in many different populations. The reason for its sudden appearance is likely due to the fact that we now have substantial research on how to best implement it and what effects it can have.
+It's no surprise that with the recent increase in mindfulness research, midnfulness appears to crop up everywhere and appears to be the latest "in" thing. However, there is a lot of research supporting the use and application of mindfulness in many different populations. The reason for its sudden appearance is likely due to the fact that we now have substantial research on how to best implement it and what effects it can have.See our [Resources](Resources_main.html) section for more information on the science behind mindfulness.
 
 <br>
 
@@ -80,10 +80,7 @@ A really handy way to access meditation tracks and learn meditation is through a
 ###What apps are there available?
 Although Planning for Calm does not endorce a specific app, here are are some popular apps available for smartphones. Try them out! It may take a few gos to find a one you that suits you as each app can have different meditations and styles. Many have an initial trial phase for you to get a feel for the app and to try out meditation.
 
-* headspace (iOS + Android)
-* Calm (iOS + Android)
-* Buddify (iOS + Android)
-* Insight Timer (iOS + Android)
+See our [Resources](Resources_main.html) section for a selection of apps available.
 
 
 <br>
