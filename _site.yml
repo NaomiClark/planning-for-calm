@@ -15,11 +15,14 @@ navbar:
       href: Intro.html
     - text: "Why Mindfulness?"
       href: why_mindfulness.html
-    - text: "Students"
-      href: Students_main.html
-    - text: "Staff"
-      href: Staff_main.html
+    - text: "FAQ"
+      href: FAQ.html
+    - text: "Resources"
+      href: Resources_main.html
     - text: "Get Involved"
       href: Get_Involved.html
+    - text: "Glossary"
+      href: Glossary.html
     - text: "Contact"
       href: Contact.html
+      

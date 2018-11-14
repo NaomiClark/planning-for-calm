@@ -1,0 +1,177 @@
+<head>
+<!-- Hotjar Tracking Code for https://naomiclark.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+
+
+---
+title: "Glossary"
+---
+
+There is a lot of specific mindfulness terms you might encounter so we've put together this handy glossary - we hope it's helpful!
+
+
+### A
+
+#####Acceptance
+<p>
+Sometimes people can associate 'acceptance' with passivity or 'giving up', in such that accepting our thoughts means that we are OK with them and don't try to change them. This is a misconception and something that even experienced meditators need to occassionally remind themselves of: acceptance does mean that we approve of the thoughts or that we like them or that we have given up trying to change them. What it means for meditators is the acceptance of their existance. We can accept that a thought exists but we don't have to like it.
+To put it another way... we can accept that pineapple pizza toppings exist, but that doesn't mean that we must like them.
+<br>
+
+By accepting that the thoughts or distractions exist, we can acknowledge their presence and from there be in a better position to change how we respond to them.
+</p>
+
+#####Anapanasati
+
+#####Attachment
+
+#####Awareness
+
+<br>
+
+### B
+#####Bells
+Sometimes, meditations can involve bells to help signify certain points in the meditation, typically the beginning and the end. It can be helpful to use bells as a way to initially focus our attention, carefully listening to the sound until it fades.
+
+#####Body-Scan
+
+#####Breathing-Focused
+
+#####Buddha/ Buddhism
+
+<br>
+
+### C
+#####Compassion
+
+
+<br>
+
+### D
+#####Decentering
+
+<br>
+
+### E
+#####Eating Meditations / Mindful Eating
+
+<br>
+
+### F
+
+<br>
+
+### G
+#####Gratitude
+
+<br>
+
+### H
+#####'Happy Place'
+No doubt you've often heard of this already! Although it can be viewed as stereotypical, it can actually help people to become mindful and meditate through visualising a calm, relaxing place.
+
+<br>
+
+### I
+#####Insight
+#####Intention
+
+<br>
+
+### J
+#####Journey
+Mindfulness is sometimes described as a 'journey' in a sense that it helps you get back in touch with yourself and is a personal exploration, often involving various twists and turns.
+
+<br>
+
+### K
+
+<br>
+
+### L
+#####Laughing Meditation
+
+#####Loving-Kindness
+
+<br>
+
+### M
+#####Meditation
+
+#####Mindfulness
+
+#####Mindfulness-Based Cognitive Therapy (MCBT)
+
+#####Mindfulness-Based Stress Reduction (MBSR)
+
+#####Movement Meditation
+
+<br>
+
+### N
+#####Non-Judgemental
+
+#####Non-Reactivity
+
+<br>
+
+### O
+#####Observe
+
+#####Open-Meditation
+Typically non-guided meditation.
+
+<br>
+
+### Q
+
+<br>
+
+### R
+#####Resiliance
+
+#####Resistance
+
+<br>
+
+### S
+#####Self-Compassion
+
+
+<br>
+
+### T
+#####Timed-Meditation
+A typically quiet or non-guided meditation track, lasting for a specific amount of time that often uses bells to signal the start and the end.
+
+#####Thoughts 
+
+<br>
+
+### U
+
+<br>
+
+### V
+#####Visualisation
+Some individuals may find that imagining a sunset or placing themselves sitting on a beach or even with a loved one or pet can help them to feel a little calmer and enter into a mindful state more easily. It can help to visualise thoughts as objects that can float away to emphasise the temporary, fleeting nature of thoughts such as letting go of balloons or watching leaves float down a river...
+
+<br>
+
+### W
+
+<br>
+
+### Y
+#####Yoga
+Some people find using gentle movements such as those found in yoga can help them develop and practice mindfulness by paying particular attention to the body. If you are thinking about using exercise, please consult your doctor beforehand to ensure that you can practice it safely.
