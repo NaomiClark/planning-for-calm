@@ -33,7 +33,7 @@ title: "Resources"
 
 <br>
 
-Here you'll find resources that we've collected to help you on your mindfulness journey.
+###*Here you'll find resources that we've collected to help you on your mindfulness journey.*
 
 <br>
 
@@ -102,6 +102,36 @@ A general good place to start is with any introductory or beginners book. This m
 <br>
 
 ###read the articles that you have cited
-Please check back later on for a full reference list!
+Here's our reference list. As we add more content and include more research on mindfulness, our reference list will continue to grow - so keep your eyes peeled!
+
+*   Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. *Assessment*, 13(1), 27-45.
+
+*   Black, D. S. (2011). A brief definition of mindfulness. *Behavioral Neuroscience*, 7(2), 109.
+
+*   Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: mindfulness and its role in psychological well-being. *Journal of personality and social psychology*, 84(4), 822.
+
+*   Cavanagh, K., Strauss, C., Cicconi, F., Griffiths, N., Wyper, A., & Jones, F. (2013). A randomised controlled trial of a brief online mindfulness-based intervention. *Behaviour research and therapy*, 51(9), 573-578.
+
+*   de Vibe, M., Solhaug, I., Tyssen, R., Friborg, O., Rosenvinge, J. H., Sørlie, T., ... & Bjørndal, A. (2015). Does personality moderate the effects of mindfulness training for medical and psychology students?. *Mindfulness*, 6(2), 281-289.
+
+*   Greeson, J. M., Juberg, M. K., Maytan, M., James, K., & Rogers, H. (2014). A randomized controlled trial of Koru: a mindfulness program for college students and other emerging adults. *Journal of American College Health*, 62(4), 222-233.
+
+*   Kabat-Zinn, J. (1994) *Wherever you go, there you are: Mindfulness meditation in everyday life.* New York: Hyperion Books.
+
+*   Kerrigan, D., Chau, V., King, M., Holman, E., Joffe, A., & Sibinga, E. (2017). There is no performance, there is just this moment: the role of mindfulness instruction in promoting health and well-being among students at a highly-ranked university in the united states. *Journal of Evidence-Based Complementary & Alternative Medicine*, 22(4), 909-918.
+
+*   Langer, E. J., & Moldoveanu, M. (2000). The construct of mindfulness. *Journal of social issues*, 56(1), 1-9.
+
+*   Miller, C. J., Borsatto, J., & Al-Salom, P. (2018). Testing a quick mindfulness intervention in the university classroom. *Journal of Further and Higher Education*, 1-9.
+
+*   National Union of Students (2016). Mental Health Poll. Retrieved from: http://appg-students.org.uk/wp-content/uploads/2016/03/Mental-Health-Poll-November-15-Summary.pdf Accessed: 14/11/2018
+  *   For an overview of the report in the context of student wellbeing issues, see this [report](https://www.nus.org.uk/PageFiles/2161132/APPG%20on%20Students%20-%20December%20-%20Speaker%20briefing%20-%20Mental%20Health%20(002).pdf) by the All Party Parliamentary Group on Students.
+
+*   Papies, E. K., Barsalou, L. W., & Custers, R. (2012). Mindful attention prevents mindless impulses. *Social Psychological and Personality Science*, 3(3), 291-299.
+
+*   Solhaug, I., Eriksen, T. E., de Vibe, M., Haavind, H., Friborg, O., Sørlie, T., & Rosenvinge, J. H. (2016). Medical and psychology student’s experiences in learning mindfulness: Benefits, paradoxes, and pitfalls. *Mindfulness*, 7(4), 838-850.
+
+*   Tan, J., Lo, P., Ge, N., & Chu, C. (2016). Self-esteem mediates the relationship between mindfulness and social anxiety among Chinese undergraduate students. *Social Behavior and Personality: an international journal*, 44(8), 1297-1304.
+
 
 <br>
