@@ -80,7 +80,7 @@ output: html_document
 <br>
 <h3>Research</h3>
 <p>How does mindfulness practice impact our relationships, both with ourselves and others?</p>
-<p>Although these effects have been demonstrated in laboratory settings, each individual’s experience of mindfulness is different, therefore effects are not guaranteed.</p>
+<p>Although these effects have been demonstrated in research, each individual’s experience of mindfulness is different, therefore effects are not guaranteed.</p>
 <ul>
   <li style="font-size: 12pt">mindfulness training can increase our self-compassion (Birnie et al., 2010)</li>
   <li style="font-size: 12pt">mindfulness can help us to understand others better by increasing our empathy (Barbosa et al., 2013)</li>

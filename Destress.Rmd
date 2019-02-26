@@ -119,7 +119,7 @@
 <br>
 
 <h3>Research</h3>
-<p class="dropdown-content">Mindfulness has been found to have a significant impact on stress levels, both psychological and physical. Although these effects have been demonstrated in laboratory settings, each individual's experience of mindfulness is different, therefore effects are not guaranteed.</p>
+<p class="dropdown-content">Mindfulness has been found to have a significant impact on stress levels, both psychological and physical. Although these effects have been demonstrated in research, each individual's experience of mindfulness is different, therefore effects are not guaranteed.</p>
 <br>
 <h4>Short-term effects</h4>
 <p class="dropdown-content">There are effects from short mindfulness practice...</p>
