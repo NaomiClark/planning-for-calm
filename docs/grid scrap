@@ -1,0 +1,95 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 20px;
+}
+
+<div class="grid-container">
+  <div class="grid-item">
+  <img src="pfc_images/index/destress_pic.jpg">
+  <button onclick="location.href='Destress.html'" type="button" class="btn">Destress</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/reconnect_pic.jpg">
+  <button class="btn">Reconnect</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/mmoments_pic.jpg">
+  <button class="btn">Mindful Moment</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/m101_pic.jpg">
+  <button class="btn">Mindfulness 101</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/research_pic.jpg">
+  <button class="btn">Research</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/miscon_pic.jpg">
+  <button class="btn">Misconceptions</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/students_pic.jpg">
+  <button onclick="location.href='Students_main.html'" type="button" class="btn">Students</button>
+  </div>
+  <div class="grid-item">
+  <img src="pfc_images/index/blog.jpg">
+  <button class="btn">Blog</button>
+  </div>
+</div>
+
+
+
+<br>
+<br>
+<div class="grid-container">
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/destress_pic.jpg">
+      <button class="btn">De-Stress</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/reconnect_pic.jpg">
+      <button class="btn">Reconnect</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/mmoments_pic.jpg">
+      <button class="btn">Mindful Moments</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/m101_pic.jpg">
+      <button class="btn">Mindful 101</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/research_pic.jpg">
+      <button class="btn">Science</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/miscon_pic.jpg">
+      <button class="btn">Misconceptions</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/students_pic.jpg">
+      <button class="btn">On Campus</button>
+    </div>
+  </div>
+  <div class="grid-item">
+    <div class="buttoncontainer">
+      <img src="pfc_images/index/blog.jpg">
+      <button class="btn">Blog</button>
+    </div>
+  </div>
+</div>

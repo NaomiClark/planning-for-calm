@@ -9,7 +9,7 @@
   gtag('config', 'UA-129198675-1');
 </script>
 
-<!-- Hotjar Tracking Code for https://naomiclark.github.io/planning-for-calm/ -->
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -20,22 +20,86 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+
+<style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  
+  /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.dropdown-content{
+  font-size: 12pt;
+  }
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  </style>
+
 </head>
 
-
----
-title: "Glossary"
----
-
-<br>
+<body>
 
 <img src="pfc_images/glossary.jpg" style="width: 100%">
-
+<br>
+<h2 class="uppercase">Glossary</h2>
+<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
 <br>
 
-There is a lot of specific mindfulness terms you might encounter so we've put together this handy glossary - we hope it's helpful!
+<h4>There is a lot of specific mindfulness terms you might encounter so we've put together this handy glossary - we hope it's helpful!</h4>
 
-The glossary is continuously growing so keep checking back to find out more.
+<p>The glossary is continuously growing so keep checking back to find out more.</p>
 
 <br>
 <br>
@@ -43,107 +107,143 @@ The glossary is continuously growing so keep checking back to find out more.
 
 ### A
 
-#####Acceptance
-<p>
-Sometimes people can associate 'acceptance' with passivity or 'giving up', in such that accepting our thoughts means that we are OK with them and don't try to change them. This is a misconception and something that even experienced meditators need to occassionally remind themselves of: acceptance does mean that we approve of the thoughts or that we like them or that we have given up trying to change them. What it means for meditators is the acceptance of their existance. We can accept that a thought exists but we don't have to like it.
-To put it another way... we can accept that pineapple pizza toppings exist, but that doesn't mean that we must like them.
-<br>
-
-By accepting that the thoughts or distractions exist, we can acknowledge their presence and from there be in a better position to change how we respond to them.
-</p>
-
-
+<button class="collapsible">Acceptance</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">Sometimes people can associate 'acceptance' with passivity or 'giving up', in such that accepting our thoughts means that we are OK with them and don't try to change them. This is a misconception and something that even experienced meditators need to occassionally remind themselves of: acceptance does mean that we approve of the thoughts or that we like them or that we have given up trying to change them. What it means for meditators is the acceptance of their existance. We can accept that a thought exists but we don't have to like it.
+To put it another way... we can accept that pineapple pizza toppings exist, but that doesn't mean that we must like them.<br>By accepting that the thoughts or distractions exist, we can acknowledge their presence and from there be in a better position to change how we respond to them.</p>
+</div>
 
 <br>
 
 ### B
-#####Bells (Tingsa)
-Sometimes meditations can involve bells to help signify certain points in the meditation, typically the beginning and the end. It can be helpful to use bells as a way to initially focus our attention, carefully listening to the sound until it fades.
-
-<br>
-
-#####Body-Scan
-A technique in which attention is placed at specific parts of the body and moved to the next following a particular direction as if 'scanning' the body. When focussing attention on a specific location, explore any sensations that arise with a sense of curiosity.
+<button class="collapsible">Bells (Tingsa)</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Sometimes meditations can involve bells to help signify certain points in the meditation, typically the beginning and the end. It can be helpful to use bells as a way to initially focus our attention, carefully listening to the sound until it fades.</p>
+</div>
+<button class="collapsible">Body Scan</button>
+<div class="content col_content">
+<br><p class="dropdown-content">A technique in which attention is placed at specific parts of the body and moved to the next following a particular direction as if 'scanning' the body. When focussing attention on a specific location, explore any sensations that arise with a sense of curiosity.</p>
+</div>
 
 <br>
 
 ### D
-#####Decentering
-The ability to see your thoughts as separate to yourself, as just mental events rather than as absolute truth (Papies et al., 2012).
+
+<button class="collapsible">Decentering</button>
+<div class="content col_content">
+<br><p class="dropdown-content">The ability to see your thoughts as separate to yourself, as just mental events rather than as absolute truth (Papies et al., 2012).</p>
+</div>
 
 <br>
 
 ### E
-#####Eating Meditations / Mindful Eating
-A practice in which deliberate attention is placed onto food. In this, you might focus on the taste, texture, smell or anytother characteristic of the food. This practice is typically done using a raisin, but it can be done with any food or even with drinks as long as you are trying to engage your full awareness.
+
+<button class="collapsible">Eating, Mindful</button>
+<div class="content col_content">
+<br><p class="dropdown-content">A practice in which deliberate attention is placed onto food. In this, you might focus on the taste, texture, smell or anytother characteristic of the food. This practice is typically done using a raisin, but it can be done with any food or even with drinks as long as you are trying to engage your full awareness.</p>
+</div>
 
 <br>
 
 ### H
-#####'Happy Place'
-No doubt you've often heard of this already! Although it can be viewed as stereotypical, it can actually help people to become mindful and meditate through visualising a calm, relaxing place.
-
+<br>
+<button class="collapsible">'Happy Place'</button>
+<div class="content col_content">
+<br><p class="dropdown-content">No doubt you've often heard of this already! Although it can be viewed as stereotypical, it can actually help people to become mindful and meditate through visualising a calm, relaxing place.</p>
+</div>
 <br>
 
 ### J
-#####Journey
-Mindfulness is sometimes described as a 'journey' in a sense that it helps you get back in touch with yourself and is a personal exploration, often involving various twists and turns.
-
+<br>
+<button class="collapsible">Journey</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Mindfulness is sometimes described as a 'journey' in a sense that it helps you get back in touch with yourself and is a personal exploration, often involving various twists and turns.</p>
+</div>
 <br>
 
 ### L
-
-#####Loving-Kindness
-This is a specific type of meditation which focuses on cultivating feelings of compassion and kindness towards others and yourself.
+<br>
+<button class="collapsible">Loving-Kindness</button>
+<div class="content col_content">
+<br><p class="dropdown-content">This is a specific type of meditation which focuses on cultivating feelings of compassion and kindness towards others and yourself.</p>
+</div>
 
 <br>
 
 ### M
-#####Meditation
-Like mindfulness itself, the definition of 'meditation' is also debated. One view is to understand meditation as being a deliberate practice used to focus your attention, which in turn can increase your ability to be 'mindful'.
-
 <br>
-
-#####Mindfulness
-Many different definitions of mindfulness (Black, 2011). One of the more well-known definitions is that proposed by Kabat-Zinn: the ability to deliberately redirect attention to the breath without judgement (Kabat-Zinn, 1994). However, other definitions exist arguing that mindfulness is more to do with being open to and aware of changes and novelty in ones environment (Langer & Moldoveanu, 2000). Typically most studies into mindfulness and its effects understand mindfulness according to the former definition. Although having different definitions can make it difficult to understand what consistitutes mindfulness itself, it does allow for the consideration and exploration of features and functions that some defintions may not.
-
-Mindfulness can be understood as existing as both a 'state' (how mindful you are right now) and as a 'trait' (how mindful you are in general) (Brown & Ryan, 2003). Questionnaires have been designed to measure these two forms, each slightly different in their conceptualisation. A well-known trait mindfulness questionnaire, the Five Facet Mindfulness Questionnaire (Baer et al., 2006), views mindfulness as consisting of five key features or 'facets': non-judgement and non-reaction to thoughts, feelings etc., acting with awareness, observation of feelings and sensations, and the ability to describe those feelings and sensations.
-
+<button class="collapsible">Meditation</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Like mindfulness itself, the definition of 'meditation' is also debated. One view is to understand meditation as being a deliberate practice used to focus your attention, which in turn can increase your ability to be 'mindful'.</p>
+</div>
+<button class="collapsible">Mindfulness</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Many different definitions of mindfulness (Black, 2011). One of the more well-known definitions is that proposed by Kabat-Zinn: the ability to deliberately redirect attention to the breath without judgement (Kabat-Zinn, 1994). However, other definitions exist arguing that mindfulness is more to do with being open to and aware of changes and novelty in ones environment (Langer & Moldoveanu, 2000). Typically most studies into mindfulness and its effects understand mindfulness according to the former definition. Although having different definitions can make it difficult to understand what consistitutes mindfulness itself, it does allow for the consideration and exploration of features and functions that some defintions may not.
 <br>
-
-#####Mindfulness-Based Cognitive Therapy (MCBT)
-A cognitive therapy that incorporates elements of mindfulness into its programme.
-
-<br>
-
-#####Mindfulness-Based Stress Reduction (MBSR)
-Originally established by Jon Kabat-Zinn in 1982 to help individuals suffering from chronic pain, MBSR has become a standard in mindfulness interventions and aims to help the practitioner cope better with stress.
-
-
+Mindfulness can be understood as existing as both a 'state' (how mindful you are right now) and as a 'trait' (how mindful you are in general) (Brown & Ryan, 2003). Questionnaires have been designed to measure these two forms, each slightly different in their conceptualisation. A well-known trait mindfulness questionnaire, the Five Facet Mindfulness Questionnaire (Baer et al., 2006), views mindfulness as consisting of five key features or 'facets': non-judgement and non-reaction to thoughts, feelings etc., acting with awareness, observation of feelings and sensations, and the ability to describe those feelings and sensations.</p>
+</div>
+<button class="collapsible">Mindfulness-Based Cognitive Therapy (MCBT)</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">A cognitive therapy that incorporates elements of mindfulness into its programme.</p>
+</div>
+<button class="collapsible">Mindfulness-Based Stress Reduction (MBSR)</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Originally established by Jon Kabat-Zinn in 1982 to help individuals suffering from chronic pain, MBSR has become a standard in mindfulness interventions and aims to help the practitioner cope better with stress.</p>
+</div>
 <br>
 
 ### O
-
-#####Open Awareness Meditation
-Typically a non-guided meditation that often involves focussing attention externally to your surroundings.
-
-
-
+<br>
+<button class="collapsible">Open Awareness Meditation</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Typically a non-guided meditation that often involves focussing attention externally to your surroundings.</p>
+</div>
 <br>
 
 ### T
-#####Timed-Meditation
-A typically quiet or non-guided meditation track, lasting for a specific amount of time that often uses bells to signal the start and the end.
-
-
+<br>
+<button class="collapsible">Timed Meditation</button>
+<div class="content col_content">
+<br><p class="dropdown-content">A typically quiet or non-guided meditation track, lasting for a specific amount of time that often uses bells to signal the start and the end.</p>
+</div>
 <br>
 
 ### V
-#####Visualisation
-Some individuals may find that imagining a sunset or placing themselves sitting on a beach or even with a loved one or pet can help them to feel a little calmer and enter into a mindful state more easily. It can help to visualise thoughts as objects that can float away to emphasise the temporary, fleeting nature of thoughts such as letting go of balloons or watching leaves float down a river.
-
+<br>
+<button class="collapsible">Visualisation</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Some individuals may find that imagining a sunset or placing themselves sitting on a beach or even with a loved one or pet can help them to feel a little calmer and enter into a mindful state more easily. It can help to visualise thoughts as objects that can float away to emphasise the temporary, fleeting nature of thoughts such as letting go of balloons or watching leaves float down a river.</p>
+</div>
 <br>
 
 ### Y
-#####Yoga
-Some people find using gentle movements such as those found in yoga can help them develop and practice mindfulness by paying particular attention to the body. If you are thinking about using exercise, please consult your doctor beforehand to ensure that you can practice it safely.
+<br>
+<button class="collapsible">Yoga</button>
+<div class="content col_content">
+<br><p class="dropdown-content">Some people find using gentle movements such as those found in yoga can help them develop and practice mindfulness by paying particular attention to the body. If you are thinking about using exercise, please consult your doctor beforehand to ensure that you can practice it safely.</p>
+</div>
+<br>
+<br>
+<br>
+
+
+
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Research.html">Research</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>

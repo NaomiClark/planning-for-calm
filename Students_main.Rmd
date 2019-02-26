@@ -1,5 +1,30 @@
 ---
-title: "Students"
+title: "On Campus"
 ---
 
-Main page for students
+
+<h4>Between coursework, exams, lectures, finances and not to mention attempting to maintain somewhat of a social life, the student experience can be exciting albeit stressful.</h4>
+
+<br>
+
+<p>Introducing a mindful approach to situations and tasks can help to feel more in control, less stressed and to be kinder to yourself,</p>
+
+<p>Here are some examples of effects noted in students:</p>
+
+<ul>
+  <li>Multiple benefits for students (Solhaug et al., 2016)
+  <li>Act to reduce stress, depression and anxiety (Cavanagh et al, 2013; de Vibe et al., 2015; Kerrigan et al., 2017)
+  <li>Help reduce distractibility (Miller et al., 2018)
+  <li>Lower social anxiety (Tan et al., 2016)
+  <li>Improve sleep problems (Greeson et al., 2014)
+  <li>Mindfulness can act as a preventative measure, as a “defense” against future stress (de Vibe et al., 2015)
+</ul>
+
+<p>*Please note that these effects are not guaranteed as each individual's experience with mindfulness is different and neither are they, nor mindfulness, intended to be a replacement for seeking medical advice.*</p>
+
+<br>
+
+<h4>Here we've placed together resources and ideas specifically for students!</h4>
+
+
+

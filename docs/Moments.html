@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Planning for Calm</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="FAQ.html">FAQ</a>
+</li>
+<li>
+  <a href="Resources_main.html">Resources</a>
+</li>
+<li>
+  <a href="Glossary.html">Glossary</a>
+</li>
+<li>
+  <a href="Contact.html">Contact</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<!DOCTYPE html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+        letter-spacing: 0.025em;
+        line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  .head {
+  font-size: 15pt;
+  }
+  .uppercase {
+  text-transform: uppercase;
+  }
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  
+  .author{
+  float: right;
+  display: inline-block;
+  }
+   /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+  .dropdown-content{
+  font-size: 12pt;
+  }
+  
+  </style>
+</head>
+<body>
+<img src="pfc_images/moments_banner.jpg" style="width: 100%"> <br>
+<h2 class="uppercase">
+Mindful Moments
+</h2>
+<br>
+<h6 class="lastMod">
+Last Modified: 24th Feb 2019
+</h6>
+<h6 class="author">
+By Naomi Clark
+</h6>
+<p><br></p>
+<p class="head">
+Even on the busiest of days, there’s always a way to include a quick mindfulness exercise into your day to restore a little bit of calm.
+</p>
+<p>
+Whilst some people may prefer to practice traditional seated meditations, mindfulness isn’t only one specific practice or time spent sitting down meditating. Mindfulness can be understood as an open and curious approach to all experiences. By allowing ourselves to explore our experiences, taking time to notice the unique details in each moment, we can bring mindfulness into our everyday.
+</p>
+<br>
+<p>
+An integrated approach by viewing each action and moment as an opportunity to practice mindfulness can allow us to fit mindfulness around our day, rather than our day around it.
+</p>
+<br> <br>
+<p>
+Examples of “mindful moments” include:
+</p>
+<ul>
+<li>
+<p>
+<strong>Mindful Walking/Eating/Action</strong> - spending a few moments tuning into the sensations of walking, eating, really any action by paying attention to our experiences and senses.
+</p>
+</li>
+<li>
+<p>
+<strong>Grounding Meditations</strong> - also known as “checking in”, we can gently check in with how we are feeling, using skills found in traditional practices such as the body scan or awareness of breath to become aware of how we are right now.
+</p>
+</li>
+<li>
+<p>
+<strong>Music Mindfulness</strong>- similar to mindful action, music mindfulness or mindful music listening invites us to explore the different layers and instruments in a piece of music. This can be taking a novel look at our favourite songs or exploring our reactions to new genres. All it takes is the length of the track!
+</p>
+</li>
+</ul>
+<br> <br>
+<h3>
+Mindful Moment Exercises
+</h3>
+<br>
+<h4>
+Mindful Walking
+</h4>
+<p>
+Take a listen to this the next time you’re out and about, even walking to campus!
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUWMrKZ9VSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<br> <br> <br>
+<h4>
+Mindful Eating
+</h4>
+<p>
+All too often we don’t attend to what we’re eating. Why not try this guided chocolate meditation?
+</p>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d984L-IZhIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<br> <br> <br>
+<h4>
+Grounding Moments
+</h4>
+<p>
+<a href="https://www.mindful.org/a-daily-mindful-check-in-practice/">Mindful magazine</a> have a guided audio checking-in meditation.
+</p>
+<br>
+<center>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332550867&amp;color=ff5500">
+</iframe>
+</center>
+<br> <br> <br>
+<h4>
+Music Mindfulness
+</h4>
+<p>
+GoodTherapy have an article all about listening mindfully to music. Click on the button below to see their guided exercise intructions.
+</p>
+<br>
+<button class="collapsible">
+Music Mindfulness Guide
+</button>
+<div class="content col_content">
+<br>
+<p>
+Adapted from <a href="https://www.goodtherapy.org/blog/tuning-in-mindful-music-listening-to-reduce-stress-1011164">GoodTherapy</a> <br>Choose a piece of music to listen to. It can be something your familar with, like a favourite track or something completely new. Music with lots of instruments such as classical music will offer you many different layers to explore. <br>
+<p>
+Take a moment to breathe. Inhale gently through your nose, and exhale deeply through your open lips. Notice your body, and tune into how it feels, whether you’re standing, sitting, walking, or laying down. Just notice any physical structures your body is touching as well as any physical sensations in your body.
+</p>
+<br>
+<p>
+Just listen. Use headphones if that helps you focus or shut out external noise. Give yourself permission to only listen to the music, indulging in it. If you are comfortable doing so, you can close your eyes.
+</p>
+<br>
+<p>
+Notice. Let yourself be aware of anything you notice, without judgment or self-criticism. Notice the pace of the music, the sounds of the different instruments, or the shifts in volume. Notice if you’re more aware of a certain part of your body as you listen (i.e., “I often feel vibrations of cello music in my chest”). <br>Notice any thoughts or feelings that come up—perhaps the music is connected to a memory, or perhaps an anxious thought is trying to pop through. Let any thoughts just pass through your awareness, and then gently bring yourself back to the sounds of the music.
+</p>
+<br>
+<p>
+Reflect. Once the music has finished, take a moment to breathe and check in with your body, breath, and mind. Does anything feel different? Do you notice any shifts after listening to the piece of music? Do you feel calmer? If the piece you chose didn’t feel like a good fit, what might you look for in another piece (i.e., slower, fewer instruments, louder)?
+</p>
+</div>
+<br> <br> <br> <br>
+<h4>
+Useful Links
+</h4>
+<p>
+If you’d like to learn more about bringing mindfulness into our daily actions, have a look through some of these external links.
+</p>
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=YSOKte6TeMI">Thich Nhat Hahn, the famous Buddhist monk, explains mindful walking from a Buddhist perspective</a>
+</li>
+<li>
+<a href="https://www.mindful.org/daily-mindful-walking-practice/">Mindful magazine have an online audio guide and transcript for practicing mindful walking</a>
+</li>
+</ul>
+<p><br> <br> <br></p>
+<center>
+<p class="bottom-menu">
+<a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Research.html">Research</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a>
+</p>
+</center>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+
+<br>
+<br>
+<div class=footer>
+<center> 
+<br>
+<p style="font-size: 10px">Planning for Calm. Copyright 2018-2019.</p>
+<p style="font-size: 10px">Analytics and cookies are used to enhance user experience and develop more useful resources.</p>
+</center>
+</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

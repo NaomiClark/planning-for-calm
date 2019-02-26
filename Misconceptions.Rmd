@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  <style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 15pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+   /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+  .dropdown-content{
+  font-size: 12pt;
+  }
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  
+  </style>
+</head>
+
+---
+output: html_document
+---
+<body>
+<img src="pfc_images/miscon_banner.jpg" style="width: 100%">
+<br>
+<h2 class="uppercase">Misconceptions</h2>
+<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
+<br>
+<p class="dropdown-content">Mindfulness is a popular practice today and can be found all over, from our local supermarket magazine aisles all the way to CEOs in Silicon Valley. Yet, despite this, there are still many myths and misconceptions about mindfulness.</p>
+<br>
+<br>
+<button class="collapsible">Myth 1: Mindfulness is always religious</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">Mindfulness does have its origins in Buddhist practice, however through research into its nature and effectiveness, secular (non-religious) forms have been made, such as MBCT and MBSR. These forms are what Planning for Calm promotes. <br>
+Some people may choose to introduce spiritual aspects to their practice, if they desire, but mindfulness itself can be practiced by anyone regardless of religious affiliation.</p>
+</div>
+<button class="collapsible">Myth 2: Mindfulness is an unsubstanciated New Age fad</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">It's no surprise that with the recent increase in mindfulness research, midnfulness appears to crop up everywhere and appears to be the latest "in" thing. However, there is a lot of research supporting the use and application of mindfulness in many different populations. In fact, mindfulness has a vast amount of research behind it, with its own specific journals and international conferences. The reason for its sudden appearance is likely due to the fact that we now have substantial research on how to best implement it and what effects it can have. With mindfulness being so popular, sometimes mindfulness can be watered-down, but by following exercises based on research, such as MBCT or MBSR, you can learn concrete practices that can enhance your understanding of the mind and increase your ability to be mindful. See our [Research](Research.html) and [Resources](Resources_main.html) pages for more information on the science behind mindfulness.</p>
+</div>
+<button class="collapsible">Myth 3: Mindfulness means having an empty mind</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">Another misconception about mindfulness and meditation is that it is all about attaining the absense of thoughts, rather it is the *acceptance* of thoughts. Thoughts can come and go during meditation, this is completely normal so don't beat yourself up.
+<br> The real skill in mindfulness and meditation is the ability to observe the thought but deliberately choose to refocus your attention back on the breath - this is what the practice is all about. Consequentially, having thoughts during meditation can be a good thing! With every thought that arises, there's a new opportunity to acknowledge the thought and practice redirecting our attention away from the thought.</p>
+</div>
+<button class="collapsible">Myth 4: You can only practice mindfulness sitting down</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">Most traditional practices involve sitting or lying down, but these are not the only practices! Cultivating a mindful attitude towards your experiences can be done in a variety of ways, ways that will be different to each individual. Explore and see what works for you!</p>
+</div>
+<button class="collapsible">Myth 5: I need to change my whole life</button>
+<div class="content col_content">
+  <br><p class="dropdown-content">Mindfulness doesn't require you to make vast life changes. All mindfulness does is invite you to bring more awareness and attention to what you are doing on a day-to-day basis. This can be cultivated through setting some time aside for a traditional seated meditation at the start of your day or it could easily be developed through really paying attention to actions and experiences throughout your day. This may sound cheesy, but mindfulness doesn't require you to invest in anything but yourself.</p>
+</div>
+<br>
+<br>
+<br>
+
+
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Research.html">Research</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>

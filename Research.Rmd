@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  <style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 15pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  
+  </style>
+</head>
+
+---
+output: html_document
+---
+<body>
+<img src="pfc_images/research_banner.jpg" style="width: 100%">
+<br>
+<h2 class="uppercase">Research</h2>
+<br>
+<h6 class="lastMod">Last Modified: 26th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
+<br>
+<center><em><h3>Under Development</h3></em></center>
+<center><iframe src="https://giphy.com/embed/5r5J4JD9miis" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-day-office-5r5J4JD9miis">via GIPHY</a></p></center>
+
+<br>
+<br>
+<br>
+
+
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+</body>

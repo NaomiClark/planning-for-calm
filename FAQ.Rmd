@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
@@ -9,7 +10,7 @@
   gtag('config', 'UA-129198675-1');
 </script>
 
-<!-- Hotjar Tracking Code for https://naomiclark.github.io/planning-for-calm/ -->
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -20,110 +21,186 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+
+<style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  
+</style>
+
+
+
 </head>
 
-
----
-title: "Frequently Asked Questions"
----
-
-<br>
+<body>
 
 <img src="pfc_images/FAQ.jpg" style="width: 100%">
+<br>
+<h2 class="uppercase">Frequently Asked Questions</h2>
+<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
+<br>
+
+<h3>Mindfulness</h3>
+
+<button class="collapsible">What is mindfulness?</button>
+<div class="content col_content">
+  <br><p>Mindfulness is an inherent skill and ability that resides in all of us. It is the ability to redirect our attention to the current moment without judging ourselves for wandering off or getting caught up in thoughts or emotions (Kabat-Zinn, 1994).</p>
+</div>
+
+
+<button class="collapsible">Isn't mindfulness just a mondern day "snake oil"?</button>
+<div class="content col_content">
+  <br><p>Mindfulness is not a panacea. It is not a miracle cure. What mindfulness is, however, is a skill that can help you "ride the waves" and navigate life's ups and downs with a little bit more ease. Mindfulness takes a lot of practice, with different results for different people.</p>
+</div>
 
 <br>
 
-##Mindfulness
+<h3>Practice</h3>
 
-###What is mindfulness?
-Mindfulness is an inherent skill and ability that resides in all of us. It is the ability to redirect our attention to the current moment without judging ourselves for wandering off or getting caught up in thoughts or emotions (Kabat-Zinn, 1994).
+<button class="collapsible">What do I need to practice mindfulness?</button>
+<div class="content col_content">
+  <br><p>Ultimately all you need is yourself! <br>
+Many people find that having a guided meditation track (a meditation track with instructions) can be helpful to structure their practice, whereas some prefer gentle music or some nothing at all! Others like to use a meditation cushion to be more comfortable whilst practing or sit in a chair. You can even practice mindfulness standing up or walking. The more you practice, the more you will discover what feels right for you.</p>
+</div>
 
-<br>
 
-###Isn't mindfulness religious?
-Mindfulness does have its origins in Buddhist practice, however through research into its nature and effectiveness, secular (non-religious) forms have been made, such as MBCT and MBSR. These forms are what Planning for Calm promotes.
+<button class="collapsible">I can't empty my mind. Does that mean I'm bad at meditation?</button>
+<div class="content col_content">
+  <br><p>Not at all! Thoughts are normal: the mind will always try to wander. The skill in mindfulness is to repeatedly redirect our attention away from any distracting thoughts back to our focus point. Becoming aware of our thoughts is one of the first steps in mindfulness so don't be discouraged! Continue to redirect your attention, viewing each distracting thought neither as good or bad, but as an opportunity to practice your mindfulness skills.</p>
+</div>
 
-Some people may choose to introduce spiritual aspects to their practice, if they desire, but mindfulness itself can be practiced by anyone regardless of religious affiliation.
 
-<br>
+<button class="collapsible">Where can I get meditation tracks?</button>
+<div class="content col_content">
+  <br><p>A really handy way to access meditation tracks and learn meditation is through a mindfulness meditation app. Otherwise there are many resources online, and books with supplementary CDs of meditations, both guided and non-guided.</p>
+</div>
 
-###Isn't mindfulness just some vague nonsense?
-This is a misconception about mindfulness. In fact, mindfulness has a vast amount of research behind it, with specific journals and international conferences. With mindfulness being so popular, sometimes mindfulness can be watered-down, but by following exercises based on research, such as MBCT or MBSR, you can learn concrete practices that can enhance your understanding of the mind and increase your ability to be mindful. See our [Resources](Resources_main.html) section for more information on the science behind mindfulness.
+<button class="collapsible">What mindfulness apps are available?</button>
+<div class="content col_content">
+  <br><p>Although Planning for Calm does not endorse a specific app, here are are some popular apps available for smartphones. Try them out! It may take a few gos to find a one you that suits you as each app can have different meditations and styles.  Many have an initial trial phase for you to get a feel for the app and to try out meditation before subscribing. <br> See our [Resources](Resources_main.html) section for a selection of apps available.</p>
+</div>
 
-<br>
+<button class="collapsible">Why use mindfulness apps?</button>
+<div class="content col_content">
+  <br><p>There's an app for everything! And mindfulness is no exception! Mindfulness apps offer a one-stop-shop for mindfulness resources and practices; there's no course book, no papers, no CDs. It's all presented together in one handy app! <br> The real benefit of mindfulness apps is that it puts your learning back into your hands. Unlike traditional 8-week courses, mindfulness apps allow you to complete your practice when you like, where you like. There's no rushing around to classes or adhering to a rigid timetable. Mindfulness apps fit around you!</p>
+</div>
 
-###Isn't mindfulness the modern day "snake oil"?
-Straight up: mindfulness is not a panacea. It is not a miracle cure. What mindfulness is, however, is a skill that can help you "ride the waves" and navigate life's ups and downs with a little bit more ease. Mindfulness takes a lot of practice, with different results for different people.
+<button class="collapsible">How long should I practice for?</button>
+<div class="content col_content">
+  <br><p>Typically, we recommend practing each day for around 10-15mins. As you get more familiar with the practice, you can increase your amount of practice. Don't worry if you miss a day (we all have busy lives and unexpected events!), just start again the next day. It's all about finding the best way for you to fit mindfulness practice into your own life. Some people may choose to practice for different lengths of time and in different ways, but it's not helpful to compare your practice to others' - mindfulness is a personal practice and will work best for each of us in different ways.</p>
+</div>
 
-<br>
+<button class="collapsible">Do I have to sit cross-legged for hours?</button>
+<div class="content col_content">
+  <br><p>Not necessarily, but if this is comfortable for you then go for it! The key element is practicing calmly bringing back our attention to our breathing or to a preferred focus point when we get distracted. Because of this, practicing mindfulness can be done in almost any situation - for example, there are walking meditations, mindful eating exercises... and of course there are more traditional sitting meditations too!</p>
+</div>
 
-###It's just a fad - right?
-It's no surprise that with the recent increase in mindfulness research, midnfulness appears to crop up everywhere and appears to be the latest "in" thing. However, there is a lot of research supporting the use and application of mindfulness in many different populations. The reason for its sudden appearance is likely due to the fact that we now have substantial research on how to best implement it and what effects it can have. See our [Resources](Resources_main.html) section for more information on the science behind mindfulness.
-
-<br>
-
-##Practice
-
-###What do I need to practice mindfulness?
-Ultimately all you need is yourself! <br>
-Many people find that having a guided meditation track (a meditation track with instructions) can be helpful to structure their practice, whereas some prefer gentle music or some nothing at all! Others like to use a meditation cushion to be more comfortable whilst practing or sit in a chair. You can even practice mindfulness standing up or walking. The more you practice, the more you will discover what feels right for you.
-
-<br>
-
-###I can't empty my mind. Does that mean I'm bad at meditation?
-Not at all! Again another misconception about mindfulness and meditation is that it is all about attaining the absense of thoughts, rather it is the *acceptance* of thoughts. Thoughts can come and go during meditation, this is completely normal so don't beat yourself up.
-<br> The real skill in mindfulness and meditation is the ability to observe the thought but deliberately choose to refocus your attention back on the breath - this is what the practice is all about. Consequentially, having thoughts during meditation can be a good thing! With every thought that arises, there's a new opportunity to acknowledge the thought and practice redirecting our attention away from the thought.
-
-<br>
-
-###Where can I get meditation tracks?
-A really handy way to access meditation tracks and learn meditation is through a mindfulness meditation app. Otherwise there are many resources online, and books with supplementary CDs of meditations, both guided and non-guided.
-
-<br>
-
-###What apps are there available?
-Although Planning for Calm does not endorse a specific app, here are are some popular apps available for smartphones. Try them out! It may take a few gos to find a one you that suits you as each app can have different meditations and styles. 
-
-Many have an initial trial phase for you to get a feel for the app and to try out meditation before subscribing.
-
-See our [Resources](Resources_main.html) section for a selection of apps available.
+<button class="collapsible">Do I need a mantra?</button>
+<div class="content col_content">
+  <br><p>Only if you would like to have one! There is no one, fixed, best way to practice mindfulness - it all depends on how you feel and what you think works for you.</p>
+</div>
 
 
 <br>
 
-###Why apps?
-There's an app for everything these days! And mindfulness is no exception! Mindfulness apps offer a one-stop-shop for mindfulness resources and practices; there's no course book, no papers, no CDs. It's all presented together in one handy app!
+<h3>Before Beginning</h3>
 
-The real benefit of mindfulness apps is that it puts your learning back into your hands. Unlike traditional 8-week courses, mindfulness apps allow you to complete your practice when you like, where you like. There's no rushing around to classes or adhering to a rigid timetable. Mindfulness apps fit around you!
-
-<br>
-
-###How long do I need to practice for?
-Typically, we recommend practing each day for around 10-15mins. As you get more familiar with the practice, you can increase your amount of practice. Don't worry if you miss a day (we all have busy lives and unexpected events!), just start again the next day. It's all about finding the best way for you to fit mindfulness practice into your own life. Some people may choose to practice for different lengths of time and in different ways, but it's not helpful to compare your practice to others' - mindfulness is a personal practice and will work best for each of us in different ways.
+<button class="collapsible">Is mindfulness ok for me to practice?</button>
+<div class="content col_content">
+  <br><p>Although mindfulness can have many positive effects, since the practice is very personal and involves self-reflection, sometimes individuals can have unpleasant reactions. If you feel like this may be triggering for you or bring up any difficult or distressing feelings, thoughts or memories, please consider if you would feel comfortable practicing mindfulness. It may be best to wait until you feel more comfortable; your wellbeing and comfort come first.</p>
+</div>
 
 <br>
 
-###Do I have to sit cross-legged for hours?
-Not necessarily, but if this is comfortable for you then go for it! The key element is practicing calmly bringing back our attention to our breathing or to a preferred focus point when we get distracted. Because of this, practicing mindfulness can be done in almost any situation - for example, there are walking meditations, mindful eating exercises... and of course there are more traditional sitting meditations too!
+<h3>Additional Resources</h3>
 
-<br>
+<button class="collapsible">Where can I find out more?</button>
+<div class="content col_content">
+  <br><p>Check out our [Resources](Resources_main.html) page, full with resources including links to organisations, both UK and worldwide, helpful videos, some of our favourite guided meditations and books.</p>
+</div>
 
-###Do I need a mantra?
-Only if you would like to have one! There is no one, fixed, best way to practice mindfulness - it all depends on how you feel and what you think works for you.
-
-<br>
-
-##Is mindfulness for me?
-
-###Are there any negative effects of practicing mindfulness?
-Although mindfulness can have many positive effects, since the practice is very personal and involves self-reflection, sometimes individuals can have unpleasant reactions. If you feel like this may be triggering for you or bring up any difficult or distressing feelings, thoughts or memories, please consider if you would feel comfortable practicing mindfulness. It may be best to wait until you feel more comfortable; your wellbeing and comfort are most important.
-
-<br>
-
-##Additional Resources
-
-###Where can I find out more?
-We have specific pages full with student and staff resources including links to organisations, both UK and worldwide, helpful videos, some of our favourite guided meditations and books.
 
 <br>
 <br>
+<br>
+
+
+
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Research.html">Research</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>

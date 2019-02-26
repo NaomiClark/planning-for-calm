@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Planning for Calm</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="FAQ.html">FAQ</a>
+</li>
+<li>
+  <a href="Resources_main.html">Resources</a>
+</li>
+<li>
+  <a href="Glossary.html">Glossary</a>
+</li>
+<li>
+  <a href="Contact.html">Contact</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<!DOCTYPE hmtl>
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<title>
+De-Stress
+</title>
+<style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+        letter-spacing: 0.025em;
+        line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  
+  .highlight{
+  font-style: italic;
+  font-size: 15pt;
+  }
+  
+  .head {
+  font-size: 15pt;
+  }
+  
+  .author{
+  float: right;
+  display: inline-block;
+  }
+     /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+  .dropdown-content{
+  font-size: 12pt;
+  }
+  </style>
+</head>
+<body>
+<img src="pfc_images/destress_banner.jpg" style="width: 100%"> <br>
+<h2 class="uppercase">
+De-Stress
+</h2>
+<h6 class="lastMod">
+Last Modified: 24th Feb 2019
+</h6>
+<h6 class="author">
+By Naomi Clark
+</h6>
+<p><br> <br> <br></p>
+<p class="head">
+University life can be hectic and overwhelming at times for all involved, with an estimated 87% of students alone reporting experiencing stress (NUS, 2015).
+</p>
+<br>
+<center>
+<p class="highlight">
+Stress is a natural experience, an evolutionary advantage that helps us to react in the face of danger.
+</p>
+</center>
+<br>
+<p>
+However, we’re far from facing the same dangers and threats our ancestors did. Modern “dangers” now are deadlines, presentations and FOMO, but our bodies still consider these as real, physical threats. Because of this, we can end up in a cycle of chronic stress, having dealt with one “threat” only to soon encounter another.
+</p>
+<p>
+To help us to avoid the danger of chronic stress or to feel better in the moment, we can practice some simple short mindfulness exercises.
+</p>
+<p><br></p>
+<h3>
+Research
+</h3>
+<p class="dropdown-content">
+Mindfulness has been found to have a significant impact on stress levels, both psychological and physical. Although these effects have been demonstrated in laboratory settings, each individual’s experience of mindfulness is different, therefore effects are not guaranteed.
+</p>
+<br>
+<h4>
+Short-term effects
+</h4>
+<p class="dropdown-content">
+There are effects from short mindfulness practice…
+</p>
+<ul>
+<li class="dropdown-content">
+improved mood and state mindfulness after one 25-minute meditation session (Johnson et al., 2015)
+</li>
+<li class="dropdown-content">
+one hour practice across four sessions was correlated with reductions in anxiety and improved physiological response to stress (Shearer et al., 2016)
+</li>
+</ul>
+<br>
+<h4>
+Long-term effects
+</h4>
+<p class="dropdown-content">
+With continued practice…
+</p>
+<ul>
+<li class="dropdown-content">
+reported enhanced wellbeing and improvements in subjective vitality (Canby et al., 2015; van der Riet et al., 2015)
+</li>
+<li class="dropdown-content">
+increased resilience to future stress (Galante et al., 2018)
+</li>
+</ul>
+<p><br> <br></p>
+<h3>
+Mindfulness to De-Stress
+</h3>
+<p class="dropdown-content">
+Here we have a selection of guided meditations that can be used in the moment to help bring down your stress levels.
+</p>
+<p><br></p>
+<h4>
+Breathing Meditations
+</h4>
+<p class="dropdown-content">
+Focusing on the breath is one of the key techniques used in mindfulness practice. Our breath is something that is always available, and for the majority, something that we do not have to consciously control. Breathing can provide us with a familar rythm to tune in to. We often take it for granted, but by paying attention to our breathing we can discover a range of sensations and events that occur with every breath.
+</p>
+<br>
+<p class="dropdown-content">
+In stressful moments, we can direct our attention to our breathing. This constant internal rythm can both reassure us and allow us to disconnect just for a few moments from the stress in our environment and look inwards.
+</p>
+<br>
+<button class="collapsible">
+Listen to our guided breathing meditation here!
+</button>
+<div class="content col_content">
+<br>
+<p class="dropdown-content">
+Check back later!
+</p>
+</div>
+<br> <br>
+<p class="dropdown-content">
+Some external guided breathing meditations
+</p>
+<button class="collapsible">
+3-Minute Guided Meditation
+</button>
+<div class="content col_content">
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEfs5TJZ6Nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+</div>
+<button class="collapsible">
+5-Minute Guided Meditation
+</button>
+<div class="content col_content">
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFSc7Ck0Ao0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+</div>
+<br> <br> <br>
+<h4>
+Visualisation Meditations
+</h4>
+<p class="dropdown-content">
+Here we engage our minds to construct worlds and landscapes to provide us with a more “active” way to explore our reactions and feelings. By engaging our imagination, we are actively giving our brains a task to do, which can be helpful if the stillness of breathing meditations aren’t for us or if our minds are just too active in the moment to focus on one point.
+</p>
+<br>
+<p class="dropdown-content">
+Here are some of our favourite guided visualisation meditations.
+</p>
+<br>
+<h4>
+Mountain Meditation
+</h4>
+<p class="dropdown-content">
+The University of Derby has greated this great 15-min visualisation meditation, adapted from Jon Kabat-Zinn.
+</p>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMCIR-e9D5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<p><br> <br> <br></p>
+<h4>
+Useful Links
+</h4>
+<ul>
+<li>
+<a href="https://www.mindful.org/9-ways-mindfulness-reduces-stress/">9 Ways Mindfulness Reduces Stress | Mindful</a>
+</li>
+<li>
+<a href="http://oxfordmindfulness.org/for-you/issues-landing-page/stress/">Stress | Oxford Mindfulness Centre</a>
+</li>
+</ul>
+<p><br> <br> <br></p>
+<center>
+<p class="bottom-menu">
+<a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Research.html">Research</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a>
+</p>
+</center>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+</html>
+
+<br>
+<br>
+<div class=footer>
+<center> 
+<br>
+<p style="font-size: 10px">Planning for Calm. Copyright 2018-2019.</p>
+<p style="font-size: 10px">Analytics and cookies are used to enhance user experience and develop more useful resources.</p>
+</center>
+</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

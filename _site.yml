@@ -3,24 +3,17 @@ author: "Naomi Clark"
 output_dir: "docs"  
 output:  
   html_document:  
-    self_contained: no  
-    theme: yeti
+    self_contained: no
     include:
       after_body: footer.html
 navbar:  
   title: "Planning for Calm"
   type: default
   right:
-    - text: "What is Mindfulness?"
-      href: Intro.html
-    - text: "Why Mindfulness?"
-      href: why_mindfulness.html
     - text: "FAQ"
       href: FAQ.html
     - text: "Resources"
       href: Resources_main.html
-    - text: "Get Involved"
-      href: Get_Involved.html
     - text: "Glossary"
       href: Glossary.html
     - text: "Contact"

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  <style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  .head {
+  font-size: 15pt;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  </style>
+</head>
+
+---
+output: html_document
+---
+<body>
+<img src="pfc_images/reconnect_banner.jpg" style="width: 100%">
+<br>
+<h2 class="uppercase">Reconnect</h2>
+<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
+
+<p class="head">Constantly thinking and planning, anticipating problems and predicting solutions...email, social media, TV... it's not difficult to believe that we're increasingly distracted.</p>
+<br>
+<p>Our <em>Reconnect</em> section provides the opportunity for us to step-back from the distractions for a few moments and reconnect with who we are. For centuries, mindfulness has been used for personal growth and development, aiming to help answer questions such as 'who am I?' and 'how do I feel right now?' in a kind and compassionate way.</p>
+<p>Practicing mindfulness can also help us to reconnect with others, developing an increased sense of compassion and empathy.</p>
+<br>
+<br>
+<h3>Research</h3>
+<p>How does mindfulness practice impact our relationships, both with ourselves and others?</p>
+<p>Although these effects have been demonstrated in laboratory settings, each individual’s experience of mindfulness is different, therefore effects are not guaranteed.</p>
+<ul>
+  <li style="font-size: 12pt">mindfulness training can increase our self-compassion (Birnie et al., 2010)</li>
+  <li style="font-size: 12pt">mindfulness can help us to understand others better by increasing our empathy (Barbosa et al., 2013)</li>
+</ul>
+<br>
+<br>
+<br>
+<h3>Mindfulness to Reconnect</h3>
+<br>
+<h4>Key Concept: Self-Compassion</h4>
+<p>Self-compassion is essentially treating yourself with kindness as you would a friend. It is a companion skill of mindfulness, with one often influencing the other.</p>
+<p>Watch this short video by the University of Minnesota of self-compassion expert, Dr. Kristen Neff,
+offering key tips to be kinder to yourself.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Qes9HoxfkE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<br>
+<h4>Body Scan</h4>
+<p>A 'Body Scan' is a traditional mindfulness exercise where we deliberately place our attention to parts of our body in sequence as if "scanning" our body. At each point, we are encouraged just to notice sensations and engage with a curious mind. Stop, Breathe & Think have produced a simple and accessible 10-minute body scan guided meditation.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/QS2yDmWk0vs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<br>
+<h4>Loving-Kindness Meditation</h4>
+<p>This kind of meditation focuses on cultivating compassion, first for others and then gradually for ourselves. The University of New Hampshire have a great example of a loving-kindness meditation here. </p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sz7cpV7ERsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<br>
+<br>
+<h4>Useful Links</h4>
+<ul>
+  <li><a href="https://www.psychologytoday.com/gb/blog/being-here/201810/can-mindfulness-make-us-kinder">Can mindfulness make us kinder? | Psychology Today</a></li>
+  <li><a href="https://www.youtube.com/watch?v=qqQHhF4CaKQ">How Mindfulness relates to Self-Compassion | Dr. Kristen Neff Talk</a></li>
+</ul>
+<br>
+<br>
+<br>
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Research.html">Research</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+
+</body>

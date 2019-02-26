@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198675-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129198675-1');
+</script>
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1089544,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  <style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  .head {
+  font-size: 15pt;
+  }
+  .highlight {
+  color: grey;
+  font-style: italic;
+  font-size: 15pt;
+  padding: 10px;
+}
+  .uppercase {
+  text-transform: uppercase;
+  }
+
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  .author{
+  float: right;
+  display: inline-block;
+  }
+  
+  </style>
+</head>
+
+---
+output: html_document
+---
+<body>
+<img src="pfc_images/m101_banner.jpg" style="width: 100%">
+<br>
+<h2 class="uppercase">Mindful 101</h2>
+<br>
+<h6 class="lastMod">Last Modified: 26th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<br>
+<br>
+<p class="head">Want to know more about mindfulness but don't know where to start? Here we've provided a short introduction to mindfulness, it's background and its journey from ancient spiritual practice to modern-day phenomenon.</p>
+
+<br>
+<h3>What is Mindfulness?</h3>
+<p>Mindfulness is an elusive concept; as soon as you think you've got an idea of what it is, you come across other experiences or ideas that make you think again. There are many different definitions of what exactly 'mindfulness' is, all depending on your approach. Beyond the secular-spiritual divide, even within research there are many ways of defining mindfulness, varying across scales, questionnaires and researchers themselves, from more cognitive to more experience-based.</p>
+<br>
+<p>One of the most popular definitions used in research and in clinical applications is that offered by Jon Kabat-Zinn. Kabat-Zinn was one of the original researchers into mindfulness in the West and proposed the following definition:</p><br>
+<p class="highlight">"Mindfulness is the ability to redirect our attention to the present moment, on purpose and without judgement." (Kabat-Zinn, 1994)</p>
+<br>
+<br>
+
+<h4>Let's look at these three key elements:</h4>
+<br>
+  <p><strong>Redirect our attention to the present</strong></p>
+  <p>Mindfulness is an action. It is not sitting with an empty mind, rather it is the continued action of moving our attention towards our experience in the here-and-now.</p>
+  <br>
+  <p><strong>On purpose</strong></p>
+  <p>We are deliberately making the effort to redirect our attention. This puts across the fact that mindfulness is going to be difficult at times because we do need to exert this effort in purposefully moving our focus away from distracting thoughts towards our current experience.</p>
+  <br>
+  <p><strong>Without judgement</strong></p>
+  <p> When we get to our current experience, we are encouraged not to be judgemental of it. We may be feeling stressed, disheartened or angry, but just for this moment, let's try not to focus on these labels we give our experiences and simply feel it. Explore how you feel, rather than trying to resist it. This non-judgemental attitude can also be brought to the distracting thoughts. Instead of beating ourselves up for getting distracted, try to just acknowledge this, recognising that you have become aware that you were distracted (which is a big step in itself!) and gently redirect your attention back to your current experience.</p>
+
+<br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<p>However, to get a real sense of what mindfulness is and some of the difficulties defining it, we need to look at its background.</p>
+<br>
+<br>
+<h3>Historical Background</h3>
+  <p>Mindfulness can be traced back to the Buddhist practice of <em>'sati'</em>, which essentially translates into <em>'memory'</em> or <em>'remembering'</em> (Bodhi, 2000). It has been debated as to what this 'remembering' relates to; could it be remembering to stay present, or as 'remembering' the teachings of the Buddha, such as impermanence (nothing lasts forever) and non-attachement (Buddha considered attachment to be the cause of suffering)? Either way, mindfulness can be understood as a "bearing in mind", if you will.</p><br>
+  <p>Mindfulness was practiced in order to help individuals attain 'enlightenment', which is the state of complete tranquility, free from attachments, and forms one of the key steps on the way to Buddhahood found in the Eightfold Path.</p><br>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6XDpIjwBmto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <br>
+  <p>For centuries, 'sati' was a key part of this spiritual journey of awakening and still is for Buddhists. In 1881, <em>'sati'</em> was translated into <em>'mindfulness'</em> by T.W. Rhys Davis. In the early 1970s, mindfulness began its own journey which would take it from the East to the West.</p>
+<br>
+<br>
+<h3>Mindfulness in the West</h3>
+<p>Having trained under the likes of Thich Nhat Hahn, Kabat-Zinn effectively introduced mindfulness in the West through his research in chronic pain. Kabat-Zinn used his knowledge of mindfulnes to create Mindfulness-Based Stress Reduction therapy (MBSR) in 1979 and demonstrated a significant impact on experience of chronic pain, with individuals reporting reductions. Kabat-Zinn's application of mindfulness was secular and from his initial work, we know have multiple mindfulness-based therapies and interventions to help with various physical and mental illnesses. NICE guidelines by the NHS recommend mindfulness-based cognitive therapy for depression.</p>
+<br>
+<p>As work developed, more research began to be undertaken in healthy individuals, documenting its impact on reducing stress and improving wellbeing, as well as on cognitive and social skills (see <a href="Research.html">Research</a> for more on the science!).</p>
+<br>
+<p>Although a lot of research has been conducted on mindfulness, there is still plenty to explore. The journey of mindfulness is only just beginning.</p>
+<br>
+<br>
+<h4>Useful Links</h4>
+  <p>This page provides only a brief introductory insight into mindfulness; there is a wealth of history, philosophy and debates that would be too much to include!</p><br><p>If you would like to find out more about mindfulness, we suggest the following resources:</p>
+
+<ul>
+  <li><a href="https://positivepsychologyprogram.com/history-of-mindfulness/">History of Mindfulness | Positive Psychology</a></li>
+  <li><a href="https://www.coursera.org/learn/mindfulness">Coursera | Demystifying Mindfulness</a></li>
+</ul>
+
+<br>
+<br>
+<br>
+
+
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Research.html">Research</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
+</body>

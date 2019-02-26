@@ -9,7 +9,7 @@
   gtag('config', 'UA-129198675-1');
 </script>
 
-<!-- Hotjar Tracking Code for https://naomiclark.github.io/planning-for-calm/ -->
+<!-- Hotjar Tracking Code for https://planning-for-calm.github.io/planning-for-calm/ -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -20,122 +20,182 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+  
+<style>
+  
+  body {
+  color: #7c8081;
+      font-family: Helvetica;
+  		letter-spacing: 0.025em;
+  		line-height: 1.75em;
+  }
+  
+  h2 {
+  font-weight: 200;
+  }
+  
+  h5 {
+  opacity: 0.5;
+  }
+  
+  p {
+  font-size: 12pt;
+  opacity: 0.8;
+  font-weight: 150;
+  }
+  
+  .uppercase {
+  text-transform: uppercase;
+  }
+  
+  .bottom-menu{
+  font-size: 12pt;
+  }
+  
+    /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.col_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.author{
+  float: right;
+  display: inline-block;
+  }
+  </style>
+
 </head>
-
-
----
-title: "Resources"
----
-
-<br>
+<body>
 
 <img src="pfc_images/resources.jpg" style="width: 100%">
-
 <br>
-
-###*Here you'll find resources that we've collected to help you on your mindfulness journey.*
-
-<br>
-
-
-###I want to...
-
-<br>
-
-###download an app
-There are many apps to choose from. Here are some of our favourites...
-
-Most apps are free to download from your app store and offer a free trial, whereas some ask you to buy the app first with no subscription required.
-
-*   Headspace (iOS + Android)
-
-*   Calm (iOS + Android)
-
-*   Buddhify (iOS + Android)
-
+<h2 class="uppercase">Resources</h2>
+<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
 <br>
 <br>
 
-###learn more about the background of mindfulness
 
-One of our students recommended the following course for anyone interested in getting to know more about the history and philosophy behind mindfulness:
-[Demystifying mindfulness online course at Coursera](https://www.coursera.org/learn/mindfulness)
+<h4>Here you'll find resources that we've collected to help you on your mindfulness journey.</h4>
+
+<br>
+
+<button class="collapsible">Further Mindfulness Resources</button>
+<div class="content col_content">
+  <br><p>For more guided audio meditations on different topics, check out the <a href="https://www.uclahealth.org/marc/mindful-meditations">UCLA MARC Free Guided Meditations</a></p>
+  <p>If you want more meditations and great videos, take a look at <a href="https://www.youtube.com/channel/UCkB9zEEqnP9kMIf5VChd99Q">Stop, Calm, Think's YouTube channel.</a></p>
+  <p><a href="https://www.psychologytoday.com/gb/blog/my-brothers-keeper/201709/be-the-mountain-guided-meditation-video-script">Mountain meditation transcript</a></p>
+  
+</div>
+
+<button class="collapsible">Mindfulness Apps</button>
+<div class="content col_content">
+  <br><p>There are many apps to choose from. Here are some of our favourites... Most apps are free to download from your app store and offer a free trial with requirement of later subscription.</p>
+<br>
+Insight Timer: <a href="https://itunes.apple.com/gb/app/insight-timer-meditation-app/id337472899?mt=8">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2&hl=en_GB">Google/Android</a>
+<br>
+Headspace: <a href="https://itunes.apple.com/gb/app/headspace-guided-meditation/id493145008?mt=8">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en_GB">Google/Android</a>
+<br>
+Calm: <a href="https://itunes.apple.com/gb/app/calm/id571800810?mt=8">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.calm.android&hl=en_GB">Google/Android</a>
+<br>
+Buddhify: <a href="https://itunes.apple.com/gb/app/buddhify-meditation-on-the-go/id687421118?mt=8">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.lvlup.buddhify&hl=en_GB">Google/Android</a>
+</div>
+
+<button class="collapsible">Mindfulness Organisations</button>
+<div class="content col_content">
+  <br>
+  [Oxford Mindfulness Centre](http://oxfordmindfulness.org/)
+  <br>
+  [Mind, the mental health charity, has an information page on mindfulness](https://www.mind.org.uk/information-support/drugs-and-treatments/mindfulness/#.W-1FaJP7Tow)
+  <br>
+  [Mental Health Foundation's 'Be Mindful' programme](https://bemindful.co.uk/)
+  <br>
+  <a href="https://www.destressmonday.org/">De-Stress Monday</a> | learn how to start the week with a mindful approach
+</div>
+
+<button class="collapsible">Recommended Reading</button>
+<div class="content col_content">
+  <br><p>A general good place to start is with any introductory or beginners book. This may seem obvious but it's good to remind ourselves that we won't become advanced overnight!<br><br>For a good introduction - **"Mindfulness: A practical guide to finding peace in a frantic world"** by Prof. Mark Williams and Dr. Danny Penman.<br><br>For integrating mindfulness into daily life - **"This is happening"** by Rohan Gunatillake.<br><br>Wanting an overview of the science? Check out **"The Science of Meditation"** by Daniel Goleman and Richard Davidson.
+</div>
+<button class="collapsible">Read Cited Articles</button>
+<div class="content col_content">
+  <br><p>Here's our reference list. As we add more content and include more research on mindfulness, our reference list will continue to grow - so keep checking back!
+  <br>
+  <br>
+  Barbosa, P., Raymond, G., Zlotnick, C., Wilk, J., Toomey III, R., & Mitchell III, J. (2013). Mindfulness-based stress reduction training is associated with greater empathy and reduced anxiety for graduate healthcare students. *Education for health*, 26(1), 9.
+  <br>
+  <br>
+  Birnie, K., Speca, M., & Carlson, L. E. (2010). Exploring self‐compassion and empathy in the context of mindfulness‐based stress reduction (MBSR). *Stress and Health*, 26(5), 359-371.
+  <br>
+  <br>
+  Bodhi, B. (2000). <em>A comprehensive manual of Adhidhamma</em>. Seattle: BPS Pariyatti.
+  <br>
+  <br>
+  Canby, N. K., Cameron, I. M., Calhoun, A. T., & Buchanan, G. M. (2015). A brief mindfulness intervention for healthy college students and its effects on psychological distress, self-control, meta-mood, and subjective vitality. *Mindfulness*, 6(5), 1071-1081.
+  <br>
+  <br>
+  Galante, J., Dufour, G., Vainre, M., Wagner, A. P., Stochl, J., Benton, A., ... & Jones, P. B. (2018). A mindfulness-based intervention to increase resilience to stress in university students (the Mindful Student Study): a pragmatic randomised controlled trial. *The Lancet Public Health*, 3(2), e72-e81.
+  <br>
+  <br>
+  Johnson, S., Gur, R. M., David, Z., & Currier, E. (2015). One-session mindfulness meditation: a randomized controlled study of effects on cognition and mood. *Mindfulness*, 6(1), 88-98.
+  <br>
+  <br>
+  Kabat-Zinn, J. (1994) *Wherever you go, there you are: Mindfulness meditation in everyday life.* New York: Hyperion Books.
+  <br>
+  <br>
+  National Union of Students (2016). Mental Health Poll. Retrieved from: http://appg-students.org.uk/wp-content/uploads/2016/03/Mental-Health-Poll-November-15-Summary.pdf Accessed: 14/11/2018. --- For an overview of the report in the context of student wellbeing issues, see this [report](https://www.nus.org.uk/PageFiles/2161132/APPG%20on%20Students%20-%20December%20-%20Speaker%20briefing%20-%20Mental%20Health%20(002).pdf) by the All Party Parliamentary Group on Students.
+  <br>
+  <br>
+  Papies, E. K., Barsalou, L. W., & Custers, R. (2012). Mindful attention prevents mindless impulses. *Social Psychological and Personality Science*, 3(3), 291-299.
+  <br>
+  <br>
+  Shearer, A., Hunt, M., Chowdhury, M., & Nicol, L. (2016). Effects of a brief mindfulness meditation intervention on student stress and heart rate variability. *International Journal of Stress Management*, 23(2), 232-254.
+  <br>
+  <br>
+  van der Riet, P., Rossiter, R., Kirby, D., Dluzewska, T., & Harmon, C. (2015). Piloting a stress management and mindfulness program for undergraduate nursing students: Student feedback and lessons learned. *Nurse Education Today*, 35(1), 44-49.
+</div>
 
 <br>
 <br>
-
-###learn about the science behind mindfulness
-
-Here are some great videos that explain some of the scientific underpinnings behind mindfulness.
-
-*TW: can refer to depression, trauma and suicidal thoughts*
-
-
-*   [ASAP Science video](https://www.youtube.com/watch?v=Aw71zanwMnY) overviewing the effects of meditation on the brain, biology and behaviour. An excellent and accessible overview!
-
-*   Dr. Shauna Shapiro's [TedTalk](https://www.youtube.com/watch?v=IeblJdB2-Vo) on her journey into mindfunless, her work on the mechanisms behind mindfulness and the application of mindfulness research.
-
-*   Prof. Mark Williams on the [Neuroscience of Mindfulness](https://www.youtube.com/watch?v=8GVwnxkWmSM).
-
-<br>
 <br>
 
-###find out about related organisations
-
-*   [Oxford Mindfulness Centre](http://oxfordmindfulness.org/)
-
-*   [Mind, the mental health charity, has an information page on mindfulness](https://www.mind.org.uk/information-support/drugs-and-treatments/mindfulness/#.W-1FaJP7Tow)
-
-*   [Mental Health Foundation's 'Be Mindful' programme](https://bemindful.co.uk/)
 
 
-<br>
-<br>
 
-###read some books about mindfulness
-A general good place to start is with any introductory or beginners book. This may seem obvious but it's good to remind ourselves that we won't become advanced overnight!
+<center><p class="bottom-menu"><a href="Destress.html">De-Stress</a> | <a href="Reconnect.html">Reconnect</a> | <a href="Moments.html">Mindful Moments</a> | <a href="Research.html">Research</a> | <a href="Mindful_101.html">Mindful 101</a> | <a href="Misconceptions.html">Misconceptions</a> | <a href="On_Campus.html">On Campus</a> | <a href="PfC_blog.html">Blog</a></p></center>
 
-*   Great instroductory books include **"Mindfulness: A practical guide to finding peace in a frantic world"** by Prof. Mark Williams and Dr. Danny Penman.
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
-*   For a read about integrating mindfulness into daily life, we'd recommend **"This is happening"** by Rohan Gunatillake.
-
-*   Wanting an overview of the science? Check out **"The Science of Meditation"** by Daniel Goleman and Richard Davidson.
-
-<br>
-<br>
-
-###read the articles that you have cited
-Here's our reference list. As we add more content and include more research on mindfulness, our reference list will continue to grow - so keep your eyes peeled!
-
-*   Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. *Assessment*, 13(1), 27-45.
-
-*   Black, D. S. (2011). A brief definition of mindfulness. *Behavioral Neuroscience*, 7(2), 109.
-
-*   Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: mindfulness and its role in psychological well-being. *Journal of personality and social psychology*, 84(4), 822.
-
-*   Cavanagh, K., Strauss, C., Cicconi, F., Griffiths, N., Wyper, A., & Jones, F. (2013). A randomised controlled trial of a brief online mindfulness-based intervention. *Behaviour research and therapy*, 51(9), 573-578.
-
-*   de Vibe, M., Solhaug, I., Tyssen, R., Friborg, O., Rosenvinge, J. H., Sørlie, T., ... & Bjørndal, A. (2015). Does personality moderate the effects of mindfulness training for medical and psychology students?. *Mindfulness*, 6(2), 281-289.
-
-*   Greeson, J. M., Juberg, M. K., Maytan, M., James, K., & Rogers, H. (2014). A randomized controlled trial of Koru: a mindfulness program for college students and other emerging adults. *Journal of American College Health*, 62(4), 222-233.
-
-*   Kabat-Zinn, J. (1994) *Wherever you go, there you are: Mindfulness meditation in everyday life.* New York: Hyperion Books.
-
-*   Kerrigan, D., Chau, V., King, M., Holman, E., Joffe, A., & Sibinga, E. (2017). There is no performance, there is just this moment: the role of mindfulness instruction in promoting health and well-being among students at a highly-ranked university in the united states. *Journal of Evidence-Based Complementary & Alternative Medicine*, 22(4), 909-918.
-
-*   Langer, E. J., & Moldoveanu, M. (2000). The construct of mindfulness. *Journal of social issues*, 56(1), 1-9.
-
-*   Miller, C. J., Borsatto, J., & Al-Salom, P. (2018). Testing a quick mindfulness intervention in the university classroom. *Journal of Further and Higher Education*, 1-9.
-
-*   National Union of Students (2016). Mental Health Poll. Retrieved from: http://appg-students.org.uk/wp-content/uploads/2016/03/Mental-Health-Poll-November-15-Summary.pdf Accessed: 14/11/2018
-  *   For an overview of the report in the context of student wellbeing issues, see this [report](https://www.nus.org.uk/PageFiles/2161132/APPG%20on%20Students%20-%20December%20-%20Speaker%20briefing%20-%20Mental%20Health%20(002).pdf) by the All Party Parliamentary Group on Students.
-
-*   Papies, E. K., Barsalou, L. W., & Custers, R. (2012). Mindful attention prevents mindless impulses. *Social Psychological and Personality Science*, 3(3), 291-299.
-
-*   Solhaug, I., Eriksen, T. E., de Vibe, M., Haavind, H., Friborg, O., Sørlie, T., & Rosenvinge, J. H. (2016). Medical and psychology student’s experiences in learning mindfulness: Benefits, paradoxes, and pitfalls. *Mindfulness*, 7(4), 838-850.
-
-*   Tan, J., Lo, P., Ge, N., & Chu, C. (2016). Self-esteem mediates the relationship between mindfulness and social anxiety among Chinese undergraduate students. *Social Behavior and Personality: an international journal*, 44(8), 1297-1304.
-
-
-<br>
-<br>
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
