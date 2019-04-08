@@ -10,6 +10,8 @@ navbar:
   title: "Planning for Calm"
   type: default
   right:
+    - text: "About"
+      href: About.html
     - text: "FAQ"
       href: FAQ.html
     - text: "Resources"

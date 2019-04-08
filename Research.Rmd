@@ -71,6 +71,7 @@ output: html_document
 <br>
 <br>
 <center><em><h3>Under Development</h3></em></center>
+<br>
 <center><iframe src="https://giphy.com/embed/5r5J4JD9miis" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-day-office-5r5J4JD9miis">via GIPHY</a></p></center>
 
 <br>

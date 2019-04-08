@@ -94,7 +94,7 @@
 <img src="pfc_images/glossary.jpg" style="width: 100%">
 <br>
 <h2 class="uppercase">Glossary</h2>
-<h6 class="lastMod">Last Modified: 24th Feb 2019</h6><h6 class="author">By Naomi Clark</h6>
+<h6 class="lastMod">Last Modified: 8th Apr 2019</h6><h6 class="author">By Naomi Clark</h6>
 <br>
 <br>
 
@@ -117,7 +117,7 @@ To put it another way... we can accept that pineapple pizza toppings exist, but 
 <br>
 
 ### B
-<button class="collapsible">Bells (Tingsa)</button>
+<button class="collapsible">Bells (Tingsha)</button>
 <div class="content col_content">
 <br><p class="dropdown-content">Sometimes meditations can involve bells to help signify certain points in the meditation, typically the beginning and the end. It can be helpful to use bells as a way to initially focus our attention, carefully listening to the sound until it fades.</p>
 </div>
